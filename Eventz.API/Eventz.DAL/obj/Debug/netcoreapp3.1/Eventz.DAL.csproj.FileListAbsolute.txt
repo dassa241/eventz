@@ -1,0 +1,24 @@
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.BLL.dll
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.AssemblyInfoInputs.cache
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.AssemblyInfo.cs
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.csprojAssemblyReference.cache
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.DAL.deps.json
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.DAL.dll
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.DAL.pdb
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.BLL.pdb
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.csproj.CopyComplete
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.dll
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.pdb
+D:\eventz-app\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.DAL.deps.json
+D:\eventz-app\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.DAL.dll
+D:\eventz-app\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.DAL.pdb
+D:\eventz-app\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.BLL.dll
+D:\eventz-app\Eventz.API\Eventz.DAL\bin\Debug\netcoreapp3.1\Eventz.BLL.pdb
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.csprojAssemblyReference.cache
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.AssemblyInfoInputs.cache
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.AssemblyInfo.cs
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.csproj.CoreCompileInputs.cache
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.csproj.CopyComplete
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.dll
+D:\eventz-app\Eventz.API\Eventz.DAL\obj\Debug\netcoreapp3.1\Eventz.DAL.pdb

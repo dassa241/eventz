@@ -1,0 +1,9 @@
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\bin\Debug\netcoreapp3.0\Eventz.BLL.deps.json
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\bin\Debug\netcoreapp3.0\Eventz.BLL.dll
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\bin\Debug\netcoreapp3.0\Eventz.BLL.pdb
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\obj\Debug\netcoreapp3.0\Eventz.BLL.csprojAssemblyReference.cache
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\obj\Debug\netcoreapp3.0\Eventz.BLL.AssemblyInfoInputs.cache
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\obj\Debug\netcoreapp3.0\Eventz.BLL.AssemblyInfo.cs
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\obj\Debug\netcoreapp3.0\Eventz.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\obj\Debug\netcoreapp3.0\Eventz.BLL.dll
+C:\Users\Dasun Lakshan\source\repos\Eventz.API\Eventz.BLL\obj\Debug\netcoreapp3.0\Eventz.BLL.pdb
